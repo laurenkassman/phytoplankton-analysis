@@ -1,2 +1,2 @@
-# phytoplankton-analysis
-Great Lakes phytoplankton statistical analysis
+# Phytoplankton Analysis
+This is my statistical analysis of the “US EPA Great Lakes Water Quality Survey 2001-2019 Phytoplankton Biovolumes Summarized by Algal Group" dataset. I used pandas, numpy, plotly, statsmodels, sklearn, and scipy in Python.
